@@ -1,26 +1,12 @@
 # OIBSIP
-# 🍕 Pizza Delivery Web App
+# OIBSIP Web Development Internship – Level 1
 
-This is a front-end Pizza Delivery web application built as part of the **OIBSIP Web Development Internship**.
+This repository contains all Level 1 tasks completed as part of the OIBSIP Web Development & Design Internship.
 
-## 🔥 Features
-- User-friendly pizza ordering interface
-- Admin dashboard (order status updates)
-- Stock tracking (concept based)
-- Order status reflected to users
-- Responsive design
+## Tasks Completed
+1. Landing Page
+2. Portfolio Website
+3. Temperature Converter
 
-## 🛠️ Tech Stack
-- HTML
-- CSS
-- JavaScript
-
-## 🚀 Live Demo
-👉 Will be deployed using GitHub Pages
-
-## 📸 Demo Video
-👉 Screen recording will be uploaded on LinkedIn
-
-## 📂 Internship
-- Organization: OIBSIP
-- Domain: Web Development & Design
+## Author
+Arpit
