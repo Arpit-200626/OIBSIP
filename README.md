@@ -12,7 +12,7 @@ Each task focuses on strengthening frontend development fundamentals using **HTM
 ###  Task 1: Landing Page (Travel Website)
 A responsive and visually appealing travel landing page showcasing popular destinations with hover effects and modern UI design.
 
-**Task 1 – Landing Page**  
+-**Task 1 – Landing Page**  
 https://arpit-200626.github.io/OIBSIP/TASK%201/
 
 ---
