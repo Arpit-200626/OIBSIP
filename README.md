@@ -13,7 +13,7 @@ Each task focuses on strengthening frontend development fundamentals using **HTM
 A responsive and visually appealing travel landing page showcasing popular destinations with hover effects and modern UI design.
 
 **Task 1 – Landing Page**  
- https://arpit-200626.github.io/OIBSIP/TASK%201/
+https://arpit-200626.github.io/OIBSIP/TASK%201/
 
 ---
 
@@ -21,7 +21,7 @@ A responsive and visually appealing travel landing page showcasing popular desti
 A personal portfolio website designed to showcase skills, projects, and contact information in a professional manner.
 
 - **Task 2 – Portfolio Website**  
- https://arpit-200626.github.io/OIBSIP/TASK%202/
+https://arpit-200626.github.io/OIBSIP/TASK2/
 
 ---
 
