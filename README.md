@@ -7,9 +7,9 @@ Each task focuses on strengthening frontend development fundamentals using **HTM
 
 ---
 
-## ✅ Tasks Completed
+## Tasks Completed
 
-### 🔹 Task 1: Landing Page (Travel Website)
+###  Task 1: Landing Page (Travel Website)
 A responsive and visually appealing travel landing page showcasing popular destinations with hover effects and modern UI design.
 
 **Task 1 – Landing Page**  
@@ -17,7 +17,7 @@ A responsive and visually appealing travel landing page showcasing popular desti
 
 ---
 
-### 🔹 Task 2: Portfolio Website
+###  Task 2: Portfolio Website
 A personal portfolio website designed to showcase skills, projects, and contact information in a professional manner.
 
 - **Task 2 – Portfolio Website**  
@@ -25,7 +25,7 @@ A personal portfolio website designed to showcase skills, projects, and contact 
 
 ---
 
-### 🔹 Task 3: Temperature Converter
+###  Task 3: Temperature Converter
 An interactive temperature converter web application that converts values between Celsius, Fahrenheit, and Kelvin.
 
 - **Task 3 – Temperature Converter**  
@@ -33,7 +33,7 @@ https://arpit-200626.github.io/OIBSIP/TASK%203/
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - HTML5
 - CSS
 - JavaScript
@@ -41,7 +41,7 @@ https://arpit-200626.github.io/OIBSIP/TASK%203/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Arpit**
 
 ---
