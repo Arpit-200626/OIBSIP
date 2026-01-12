@@ -18,8 +18,8 @@ A responsive and visually appealing travel landing page showcasing popular desti
 - Implementing hover effects and transitions
 - Understanding responsive design principles
 
-🔗 Live Demo:  
-`/task1-travel-landing-page`
+**Task 1 – Landing Page**  
+  [🚀 View Live](./TASK%201/)
 
 ---
 
@@ -32,8 +32,8 @@ A personal portfolio website designed to showcase skills, projects, and contact 
 - Designing clean UI with dark theme
 - Organizing content for professional presentation
 
-🔗 Live Demo:  
-`/task2-portfolio`
+- **Task 2 – Portfolio Website**  
+  [🚀 View Live](./TASK%202/)
 
 ---
 
@@ -46,8 +46,8 @@ An interactive temperature converter web application that converts values betwee
 - Validating user input
 - Integrating JavaScript with HTML & CSS
 
-🔗 Live Demo:  
-`/task3-temperature-converter`
+- **Task 3 – Temperature Converter**  
+  [🚀 View Live](./TASK%203/)
 
 ---
 
