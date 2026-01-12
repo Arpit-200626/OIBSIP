@@ -19,7 +19,8 @@ A responsive and visually appealing travel landing page showcasing popular desti
 - Understanding responsive design principles
 
 **Task 1 – Landing Page**  
-  [🚀 View Live](./TASK%201/)
+ https://arpit-200626.github.io/OIBSIP/TASK%201/
+
 
 ---
 
@@ -33,7 +34,8 @@ A personal portfolio website designed to showcase skills, projects, and contact 
 - Organizing content for professional presentation
 
 - **Task 2 – Portfolio Website**  
-  [🚀 View Live](./TASK%202/)
+ https://arpit-200626.github.io/OIBSIP/TASK%202/
+
 
 ---
 
@@ -47,7 +49,8 @@ An interactive temperature converter web application that converts values betwee
 - Integrating JavaScript with HTML & CSS
 
 - **Task 3 – Temperature Converter**  
-  [🚀 View Live](./TASK%203/)
+https://arpit-200626.github.io/OIBSIP/TASK%203/
+
 
 ---
 
