@@ -12,51 +12,30 @@ Each task focuses on strengthening frontend development fundamentals using **HTM
 ### 🔹 Task 1: Landing Page (Travel Website)
 A responsive and visually appealing travel landing page showcasing popular destinations with hover effects and modern UI design.
 
-**Learning Outcomes:**
-- Structuring webpages using semantic HTML
-- Styling layouts using CSS Flexbox & Grid
-- Implementing hover effects and transitions
-- Understanding responsive design principles
-
 **Task 1 – Landing Page**  
  https://arpit-200626.github.io/OIBSIP/TASK%201/
-
 
 ---
 
 ### 🔹 Task 2: Portfolio Website
 A personal portfolio website designed to showcase skills, projects, and contact information in a professional manner.
 
-**Learning Outcomes:**
-- Creating multi-section layouts
-- Implementing fixed navigation and smooth scrolling
-- Designing clean UI with dark theme
-- Organizing content for professional presentation
-
 - **Task 2 – Portfolio Website**  
  https://arpit-200626.github.io/OIBSIP/TASK%202/
-
 
 ---
 
 ### 🔹 Task 3: Temperature Converter
 An interactive temperature converter web application that converts values between Celsius, Fahrenheit, and Kelvin.
 
-**Learning Outcomes:**
-- Writing JavaScript logic for calculations
-- DOM manipulation and event handling
-- Validating user input
-- Integrating JavaScript with HTML & CSS
-
 - **Task 3 – Temperature Converter**  
 https://arpit-200626.github.io/OIBSIP/TASK%203/
-
 
 ---
 
 ## 🛠️ Technologies Used
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 - GitHub Pages (for deployment)
 
