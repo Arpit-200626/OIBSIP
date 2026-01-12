@@ -21,7 +21,7 @@ https://arpit-200626.github.io/OIBSIP/TASK%201/
 A personal portfolio website designed to showcase skills, projects, and contact information in a professional manner.
 
 - **Task 2 – Portfolio Website**  
-https://arpit-200626.github.io/OIBSIP/TASK2/
+https://arpit-200626.github.io/OIBSIP/TASK%202/
 
 ---
 
